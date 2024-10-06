@@ -26,7 +26,7 @@ Optionally, you can update your environment settings to include an alias so that
 
 ```bash
 nano ~/.bashrc
-alias updateaz='cd <REPLACE WITH THE INSTALL DIRECTORY>;./update.sh'
+alias updateaz='cd <REPLACE WITH THE INSTALL DIRECTORY>;./updatemods.sh'
 ```
 
 
